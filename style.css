@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     color: rgb(192, 154, 30);
+}
+
+html, body {
+    height: 100%;
+   
+   
+}
+
+body{
+    background-color: blueviolet;
+}
+
+aside>img {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 10%;
+}
+aside>h1{
+  color: rgb(235, 161, 50);
+  z-index: 1;
+  position: absolute;
+  text-align: center;
+  margin: 20;
+left: 0;
+right: 0;
+top: 50%;
+width: 20%;
+}
+h2{
+    text-align: center;
+    
+}
+div>.carousel-item{
+    width: 60%;
+    margin-left: 11%;
+    display: flex;
+  
+    
+}
+.moi>p{
+text-align: center;
+margin: auto;
+width: 50%;
+}
+.formation{
+    display: grid;
+   grid-template-columns: 22% 25% 25% 25%;
+}
+.formation>h2{
+    text-align: center;
+    
+}
+.for1{
+
+}
+.for2{
+    
+}
+.for3{
+    
+}
+.for4{
+    
+}
+footer>img{
+    width: 100PX;  
+    display: grid;
+}
+footer{
+    background-color: black;
+}
+p{
+   text-align: center;
+    
+    }
+    h3{
+        text-align: center;
+        margin: auto;
+        width: 50%;
+        }
+     
+ main{
+            background-color: black;
+        }
+         .comp {
+            display: grid;
+            justify-content: center;
+        }
+        .cont{
+            background-color: black;
+            
+        }
+        .cont>img{
+            width: 10%;
+        
+
+        }
+        .formo{
+          
+          justify-content: center;
+          display: grid;
+    
+        }
+    
+
+    
+
