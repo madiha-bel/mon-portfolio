@@ -49,11 +49,13 @@ margin: auto;
 width: 50%;
 }
 .formation{
-    display: grid;
-   grid-template-columns: 22% 25% 25% 25%;
+
+ 
+   
 }
 .formation>h2{
     text-align: center;
+  
     
 }
 .for1{
